@@ -3,7 +3,7 @@ package](https://github.com/ManasJayanth/esy-packages-template/workflows/Build%2
 
 # esy-rapidjson
 
-`esy-rapidjson` is sample package, [`rapidjson`](https://github.com/Tencent/rapidjson), packaged for [`esy`](https://esy.sh/).
+`esy-rapidjson` is [`rapidjson`](https://github.com/Tencent/rapidjson), packaged for [`esy`](https://esy.sh/).
 
 ## Why
 `esy` can not only fetch and install Reason and OCaml libraries and tools,
