@@ -1,8 +1,9 @@
 {
   "esy": {
-    "build": "hello"
+    "build": "pkg-config --cflags rapidjson"
   },
   "dependencies": {
-    "esy-hello": "*"
+    "esy-pkg-config": "*",
+    "esy-rapidjson": "*"
   }
 }
